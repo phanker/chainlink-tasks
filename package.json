@@ -1,0 +1,24 @@
+{
+  "name": "ChainlinkLearningPath",
+  "version": "1.0.0",
+  "description": "Chainlink 可以让区块链上的智能合约获取到真实的世界的数据，同时可以使用链下的计算资源。在给链上智能合约输入数据的时候， Chainlink 还通过去中心化的预言机网络保证了数据的安全性和可靠性。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.5.1",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.6",
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.8.0",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.11.2",
+    "hardhat-deploy": "^0.11.19"
+  }
+}
