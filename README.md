@@ -9,9 +9,12 @@ There are the test results for PriceFeed,VRF and Automation contracts below.
 
 Compiled 63 Solidity files successfully
 
-单元测试：Chainlink Data feed
-✔ 单元测试 0-0：LINK aggregator 地址配置正确 (7183ms)
-✔ 单元测试 0-1：BTC aggregator 地址配置正确
+单元测试：Chainlink Data feed  
+
+✔ 单元测试 0-0：LINK aggregator 地址配置正确 (7183ms)  
+
+✔ 单元测试 0-1：BTC aggregator 地址配置正确  
+
 ✔ 单元测试 0-2：ETH aggregator 地址配置正确
 ✔ 单元测试 0-3: Link aggregator 地址配置正确
 ✔ 单元测试 0-4: BTC aggregator 返回正确结果
